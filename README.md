@@ -116,11 +116,6 @@ The implementation is based on the Figma design provided. All efforts have been 
 
 ---
 
-## 🤝 Contribution
-This project is part of the CodeAnt AI internship application and is not open for contributions at the moment.
-
----
-
 ## 💌 Contact
 
 If you have any questions or feedback regarding this project, feel free to reach out to me:
