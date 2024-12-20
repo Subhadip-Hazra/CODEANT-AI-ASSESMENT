@@ -4,7 +4,7 @@ Welcome to the **CodeAnt AI Assessment** project! This repository contains the f
 
 
 ## 🔗 Live Demo
-<a href="https://codeant-ai-assesment.netlify.app/repository">Click here to view the live demo</a>
+<a href="https://codeant-ai-assesment.netlify.app/">Click here to view the live demo</a>
 
 ## 📂 Project Structure
 
